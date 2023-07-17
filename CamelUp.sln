@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelUp.Core", "CamelUp.Core\CamelUp.Core.csproj", "{58D0F992-9222-4688-B816-75E792A4FC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelUp.Forms", "CamelUp.Forms\CamelUp.Forms.csproj", "{20E49493-0579-4784-9CD4-822F041C6F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D0F992-9222-4688-B816-75E792A4FC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D0F992-9222-4688-B816-75E792A4FC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D0F992-9222-4688-B816-75E792A4FC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D0F992-9222-4688-B816-75E792A4FC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E49493-0579-4784-9CD4-822F041C6F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E49493-0579-4784-9CD4-822F041C6F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E49493-0579-4784-9CD4-822F041C6F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E49493-0579-4784-9CD4-822F041C6F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330A9A74-DF3A-43D7-853F-4BA436550631}
+	EndGlobalSection
+EndGlobal
